@@ -1,0 +1,8 @@
+# Descarga de datasets
+
+Descarga los archivos desde sus fuentes originales:
+
+- **DATASET.csv** (datos meteorológicos para la predicción de heladas en Perú): [Kaggle](https://www.kaggle.com/datasets/abadpomamaquera/meteorological-data-for-frost-prediction-in-peru/data)
+- **Banana Leaf.rar** (imágenes de hojas de banano): [Mendeley Data](https://data.mendeley.com/datasets/hzttvh774g/3)
+
+Para ejecutar los notebooks, coloca los archivos descargados en una carpeta llamada `datasets` en la raíz de tu unidad de Google Drive (`Mi unidad/datasets`). Conserva los nombres indicados arriba.
