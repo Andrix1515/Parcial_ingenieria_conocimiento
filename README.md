@@ -1,5 +1,8 @@
 # Evaluación parcial
 
+LINK DEL REPOSITORIO
+https://github.com/Andrix1515/INGENIER-A-DEL-CONOCIMIENTO-Evaluaci-n-Parcial-2025-II-
+
 Repositorio con dos actividades de aprendizaje automático:
 
 - **Predicción de heladas en Perú** usando datos meteorológicos y modelos clásicos de machine learning.
